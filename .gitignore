@@ -1,3 +1,9 @@
+# Virtual environment
 venv/
-__pychache__/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
 .vscode/
